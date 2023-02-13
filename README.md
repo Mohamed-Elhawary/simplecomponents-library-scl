@@ -175,10 +175,10 @@ This library contains four commonly used components nowadays, each component has
 
 This is the starting vesion of the library, I will enhance it in the next versions by adding more components and some other features that absolutely will improve the performance.
 
-## Languages
+## Built with
 
 * CSS
-* Vanilla JS 
+* JS 
 
 ## Dependencies 
 
@@ -198,7 +198,7 @@ This is the starting vesion of the library, I will enhance it in the next versio
 ## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 * [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
