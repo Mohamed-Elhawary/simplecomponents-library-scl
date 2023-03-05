@@ -1,13 +1,11 @@
 {
   "name": "javascript-ui-library",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "node_modules/.bin/webpack --mode production",
     "serve": "webpack-dev-server --mode development"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.5",

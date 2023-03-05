@@ -187,10 +187,6 @@ This is the starting vesion of the library, I will enhance it in the next versio
 * Style-Loader
 * Webpack
 
-## Enviroment  
-
-* Node JS 
-
 ## Author
 
 * [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/) 
